@@ -1,0 +1,23 @@
+.span {
+    margin-left: 30px;
+}
+
+.noti {
+    margin-left: 650px;
+}
+
+.group {
+    margin-left: 700px;
+}
+
+@media (max-width:780px) {
+    .back {
+        display: none;
+
+    }
+}
+
+.next {
+    background-color: #040748;
+    color: white;
+}
